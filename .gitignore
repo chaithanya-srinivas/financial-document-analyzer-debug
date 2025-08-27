@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+venv/
+
+# Environment & secrets
+.env
+*.db
+
+# Logs & outputs
+*.log
+outputs/
+freeze.txt
+run_log.txt
+pip_install_log.txt
